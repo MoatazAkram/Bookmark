@@ -1,0 +1,43 @@
+.header h1{
+    font-size: 50px;
+    color: #352e28;
+    font-family: "Pacifico", cursive;
+}
+.main{
+    background-color: #f7ecde;
+    height: 100vh;
+}
+.bookmarker-body h2{
+    font-size: 25px;
+    margin-bottom: 0.5rem;
+    font-family: "Righteous", cursive;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49) !important;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+}
+.form-control{
+    width: 100%;
+    padding: .375rem .75rem;
+    font-weight: 400;
+    font-size: 1rem;
+    display: block;
+}
+#submitbtn{
+    background-color: #d1512d !important;
+    color: white !important;
+}
+.dotted-line {
+    border: none;
+    border-top: 2px dotted black;
+    margin-bottom: -50px;
+    margin-top: 30px;
+}
+.dotted-line2{
+    border: none;
+    border-top: 2px dotted black;
+    margin-top: -3px;
+}
+.fa-solid{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+}
